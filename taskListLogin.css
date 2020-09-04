@@ -1,0 +1,35 @@
+body{
+
+    background-color: #212121;
+    color: #FAFAFA;
+}
+.form-check-label{
+    color:#FAFAFA;
+    font-size: 14px;
+}
+.container{
+    align-content: center;
+    padding-left: 400px;
+    padding-top: 180px;
+}
+.form-control{width: 35%;}
+.registration-link {
+    font-size: 12px;
+    top: 455px;
+    color: #FAFAFA;
+    position: absolute;
+    left: 675px;
+}
+.login-link {
+    font-size: 12px;
+    top: 540px;
+    color: #FAFAFA;
+    position: absolute;
+    left: 690px;
+}
+.registration-link-forgot-pswrd{
+    font-size: 12px;
+    top: 472px;
+    position: absolute;
+    left: 675px;
+}
